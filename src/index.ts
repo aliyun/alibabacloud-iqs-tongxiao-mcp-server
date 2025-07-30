@@ -92,7 +92,7 @@ async function runSSEServer() {
 async function runServer() {
     const transport = new StdioServerTransport();
     await server.connect(transport);
-    console.log("TongXiao MCP Server running on stdio");
+    console.error("TongXiao MCP Server running on stdio");
 }
 
 
