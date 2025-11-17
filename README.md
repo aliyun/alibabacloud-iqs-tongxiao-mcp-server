@@ -3,6 +3,10 @@
 A Model Context Protocol (MCP) server implementation that integrates with IQS APIs, which delivers clean, accurate, diverse, and high-quality results through multiple data sources.
 For more Information about TongXiao, please visit our [documents](https://help.aliyun.com/product/2837261.html?spm=5176.29875775.0.0.15362064NYv3s0).
 
+<a href="https://glama.ai/mcp/servers/@aliyun/alibabacloud-iqs-tongxiao-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@aliyun/alibabacloud-iqs-tongxiao-mcp-server/badge" alt="TongXiao Common Search Server MCP server" />
+</a>
+
 ## Installation
 
 ### NPM Installation
@@ -49,4 +53,3 @@ This tool offers enhanced real-time search capabilities for open domain networks
 
 **Best for:**
 When you are unsure where to find information, use this interface to obtain accurate information from the web or multiple vertical data sources.
-
