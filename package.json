@@ -16,7 +16,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.4.1",
+    "@modelcontextprotocol/sdk": "1.25.2",
     "@types/node-fetch": "^2.6.12",
     "express": "^5.1.0",
     "node-fetch": "^3.3.2"
